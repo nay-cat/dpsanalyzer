@@ -21,4 +21,7 @@ Command application to analyze dps
 
 4. `dps-suspicious-paths.txt` - Folders that contains strings of dps-suspicious-results
 
+5. `dps-parsed-paths` - Parse device path to drive path
+
+6. `dps-sigcheck-executables.txt` - Check signature of dps files
 
