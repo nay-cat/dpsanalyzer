@@ -12,6 +12,8 @@ Command application to analyze dps
 ![image](https://github.com/nay-cat/dpsanalyzer/assets/63517637/97c201e2-96f1-4f10-94b6-7dea9b60311f)
 ![image](https://github.com/nay-cat/dpsanalyzer/assets/63517637/4f2d8a32-537f-44b5-a661-dad64491b973)
 ![image](https://github.com/nay-cat/dpsanalyzer/assets/63517637/6d962ea0-d98e-46b6-921c-05409bfdec6d)
+![image](https://github.com/nay-cat/dpsanalyzer/assets/63517637/92916042-2d92-4532-a83c-5e774bfa9e22)
+
 
 # Output files
 1. `dps-parsed-results.txt` - Makes files more understandable and sorts them by name
