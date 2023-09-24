@@ -36,3 +36,4 @@ Command application to analyze dps
 
 10. `dps-full-unsigned-executables.txt` - Check all unsigned executables
 
+11. `dps-sorted-suspicious-results.txt` - All strings with same .exe but different timestamp but sorted
